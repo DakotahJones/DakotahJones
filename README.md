@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Dakotah Jones
+🎯 Aspiring Software Engineer | Python Developer | Security-Cleared Professional
+🔭 Currently building dakn.gg, a League of Legends stats tracker using the Riot Games API.
+💡 Passionate about backend development, data-driven applications, and continuous learning.
+🔒 Active Secret Security Clearance with military experience
 
-<!--
-**DakotahJones/DakotahJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages: Python, Java, C++, HTML/CSS, JavaScript
+Tools: Git, Agile Development, APIs
 
-Here are some ideas to get you started:
+🚀 Featured Project
+🔹 dakn.gg
+A full-stack web app delivering League of Legends player data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s Connect!
+LinkedIn: https://www.linkedin.com/in/dakotahjones/
+Email: dakotahjones3@gmail.com
